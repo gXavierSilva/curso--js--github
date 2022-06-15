@@ -26,3 +26,7 @@ git branch -M main
 git remote add origin https://github.com/moshmatohead/curso--js--github.git
 
 git push -u origin main
+
+git push
+
+git checkout -b new-branch
