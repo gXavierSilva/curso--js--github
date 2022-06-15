@@ -11,3 +11,8 @@ git commit -m "first commit"
 git log
 
 git log --oneline
+
+git restore nomedoarquivo.ext
+git restore .
+
+presta buceta
