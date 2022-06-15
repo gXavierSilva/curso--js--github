@@ -1,0 +1,7 @@
+git status
+--> não rastreado
+--> rastreado
+--> commitados
+--> modificados
+
+git add .
