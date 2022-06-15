@@ -29,4 +29,8 @@ git push -u origin main
 
 git push
 
-git checkout -b new-branch
+git checkout -b new-branch (cria nova branch)
+
+git merge --no-ff nomedabranch
+
+git checkout nomedabranch
