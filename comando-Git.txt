@@ -15,4 +15,4 @@ git log --oneline
 git restore nomedoarquivo.ext
 git restore .
 
-presta buceta
+git commit --amend
